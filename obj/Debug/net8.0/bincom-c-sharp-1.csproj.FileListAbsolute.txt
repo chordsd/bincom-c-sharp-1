@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\bin\Debug\net8.0\bincom-c-sharp-1.exe
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\bin\Debug\net8.0\bincom-c-sharp-1.deps.json
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\bin\Debug\net8.0\bincom-c-sharp-1.runtimeconfig.json
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\bin\Debug\net8.0\bincom-c-sharp-1.dll
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\bin\Debug\net8.0\bincom-c-sharp-1.pdb
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.AssemblyInfo.cs
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.sourcelink.json
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.dll
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\refint\bincom-c-sharp-1.dll
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.pdb
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\bincom-c-sharp-1.genruntimeconfig.cache
+C:\Users\user\Desktop\bincom-c-sharp\bincom-c-sharp-1\obj\Debug\net8.0\ref\bincom-c-sharp-1.dll
